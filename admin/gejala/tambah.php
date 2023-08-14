@@ -16,7 +16,7 @@ if (isset($_POST['submit'])) {
         </script>";
     } else {
         echo "<script>
-        alert('data berhasil ditambahkan');
+        alert('data gagal ditambahkan');
         </script>";
     }
 }

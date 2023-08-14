@@ -25,3 +25,11 @@ function tambah($data)
 
     return mysqli_affected_rows($conn);
 }
+
+function hapus($id)
+{
+    global $conn;
+    mysqli_query($conn, "DELETE FROM tbl_gejala WHERE id_gejala = $id");
+
+    return mysqli_affected_rows($conn);
+}
