@@ -1,0 +1,16 @@
+Sistem pakar atau Expert system baisa disebut juga dengan Knowledge Based System yaiu suatu aplikasi komputer yang ditunjukan untuk membantu pengabilan keputusan atau pemecahan persoalan dalam bidang yang spesifik. Sistem ini bekerja dengan meggunakan pengetahuan dan metode analisis yang telah didefinisikan terlebih dahalu oleh pakar yang sesuai dengan bidang keahliannya (Hayadi,B.Herawan,2018:1).
+
+
+pengertian sistem pakar menurut para Ahli
+Beberapa definisi yang ada untuk sistem pakar menurut para ahli, yaitu:
+1.	Menurut Arhami (2018:1). Sistem Pakar (Expert System) adalah suatu cabang dai IA yang membuat penggunaan secara luas Knowledge yang kusus untuk menyelesaian masalah tingakt manusia tyang pakar.
+2.	Menurut Siswanto (2018:1). Sistem Pakar adalah program IA dengan basis pengetahuan (Kwnoledge base) yang diperoleh dari pengalaman aatau pengetahuan pakar atau ahli dalam memecahka persoalan pada bidang tertentudan didukung mesin  inferensi/inferensi Enggine yang melakukan penalaran atau pelacakan terhadap sesuatu atau fakta-fakta dn aturan kaidah yang ada di basis pengetahuan setelah dilakukan pencarian, sehingga dicapai kesimpulan.
+3.	Menurut Martin dan Oxman : Sistem pakar adalah sistem berbasis computer yang menggunakan pengetahuan, fakta, dan Teknik penalaran dalam memecahkan masalah, yag biasanya hanya dapat dislesaikan oleh seorang pakar dalam bidang tertentu.
+4.	Menurut Ignizio : Sistem pakar merupakan bidang yang dicirikan oleh sistem brbasis pengetahuan (knowledge base sistem), memungkinkan adanya komponen untuk brpikir dan mengambil kesimpulan dan kkumpulan kaidah.Menurut Giarratono dan Riley :Sistem pakar adalah salah satu cabang kecerdasan buatn yang menggunakan pengetahuan-pengetahuan khusu yang dimilikioleh seorang ahli untuk menyelesaikan masalah tertentu.
+
+
+
+### Perancangan aplikasi
+
+1. Login Admin
+- 
