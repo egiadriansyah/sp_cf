@@ -12,5 +12,43 @@ Beberapa definisi yang ada untuk sistem pakar menurut para ahli, yaitu:
 
 ### Perancangan aplikasi
 
+
+#ini bagian Content
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-4 text-gray-800">Daftar Gejala</h1>
+    <hr>
+
+</div>
+<!-- /.container-fluid -->
+
+</div>
+<!-- End of Main Content -->
+
+#2
+<?php
+include '../templates/header.php';
+include '../templates/sidebar.php';
+include '../templates/topbar.php';
+
+?>
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-4 text-gray-800">Daftar Gejala</h1>
+    <hr>
+
+</div>
+<!-- /.container-fluid -->
+
+</div>
+<!-- End of Main Content -->
+
+<?php include '../templates/footer.php'; ?>
+
+
 1. Login Admin
 - 
